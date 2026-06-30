@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0049/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部八
+  hash: sha256:2ca6b36e125227017052aabb38e83ed63103fdf152cf0be95bdfb58f63de9d79
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0049_WYG_000-1a, image: WYG1356/WYG1356-0615a.png}
+body:
+  text: 赤城集總集類提要臣等謹案赤城集十八卷宋林表民編集中載吳子良赤城續志序稱其字曰逢吉與撰天台前集别編之林表民合又稱為東魯人則里貫互異蓋其先世自曲阜徙臨海故從其祖貫言之非别一人也表民常續陳耆卿赤城志復取記志書傳銘誄贊頌之文為志所不載者薈而輯之以成此集前有淳祐八年吳子良序稱分門會稡并詩為一今此集僅有文一百八十二首而無詩又明謝鐸赤城新志載赤城集二十八卷有刻本在內閣而此本亦祇十八卷疑原本尚有詩十卷為傳抄者所脫佚已非完本矣乾隆四十六年四月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:c84f882fffc9df2c407c5273b4a0e62879a81611128ddcaefa36b2396c1f2e7a
+metadata:
+  title: 赤城集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:33:41.905523'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4h0049/KR4h0049_000.txt
+hash: sha256:01c96e6ee9b31870ccec89a99cc894aafd8ea6371495c5e82deaf357fcd77307
