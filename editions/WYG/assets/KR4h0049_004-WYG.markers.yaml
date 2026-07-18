@@ -162,6 +162,7 @@ markers:
   - {type: line-break, offset: 597, content: '', id: KR4h0049_WYG_004-3a01}
   - {type: indent, offset: 597, content: 　　, id: KR4h0049_WYG_004-bkkind10}
   - {type: punctuation, offset: 605, content: (, id: KR4h0049_WYG_004-bkkpn1}
+  - {type: voice, offset: 605, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 607, content: /, id: KR4h0049_WYG_004-bkkpn2}
   - {type: punctuation, offset: 609, content: ), id: KR4h0049_WYG_004-bkkpn3}
   - {type: indent, offset: 609, content: 　　　　　, id: KR4h0049_WYG_004-bkkind11}
@@ -816,9 +817,11 @@ markers:
       ', id: KR4h0049_WYG_004-bkkkrnewl194}
   - {type: line-break, offset: 3442, content: '', id: KR4h0049_WYG_004-11b06}
   - {type: punctuation, offset: 3447, content: (, id: KR4h0049_WYG_004-bkkpn4}
+  - {type: voice, offset: 3447, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 3450, content: /, id: KR4h0049_WYG_004-bkkpn5}
   - {type: punctuation, offset: 3453, content: ), id: KR4h0049_WYG_004-bkkpn6}
   - {type: punctuation, offset: 3459, content: (, id: KR4h0049_WYG_004-bkkpn7}
+  - {type: voice, offset: 3459, length: 9, name: note, id: n3}
   - {type: punctuation, offset: 3464, content: /, id: KR4h0049_WYG_004-bkkpn8}
   - {type: punctuation, offset: 3468, content: ), id: KR4h0049_WYG_004-bkkpn9}
   - {type: 'kr:newline', offset: 3471, content: '
@@ -826,6 +829,7 @@ markers:
       ', id: KR4h0049_WYG_004-bkkkrnewl195}
   - {type: line-break, offset: 3471, content: '', id: KR4h0049_WYG_004-11b07}
   - {type: punctuation, offset: 3474, content: (, id: KR4h0049_WYG_004-bkkpn10}
+  - {type: voice, offset: 3474, length: 6, name: note, id: n4}
   - {type: punctuation, offset: 3477, content: /, id: KR4h0049_WYG_004-bkkpn11}
   - {type: punctuation, offset: 3480, content: ), id: KR4h0049_WYG_004-bkkpn12}
   - {type: 'kr:newline', offset: 3495, content: '
@@ -1359,4 +1363,4 @@ markers:
 
       ', id: KR4h0049_WYG_004-bkkkrnewl323}
   back: []
-hash: sha256:f7441832afca83eba4c960170dbc02da7f12ff00e291a9a109565c4dafc07bc3
+hash: sha256:e64ed9482ed461bcd64f05a77f8a278e7363b481e3e5e1c91f153577802d1335
